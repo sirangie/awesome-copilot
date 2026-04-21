@@ -29,6 +29,7 @@ Custom `.github/copilot-instructions.md` files for various project types and lan
 | [TypeScript React](instructions/typescript-react.md) | Instructions for React + TypeScript apps | TypeScript |
 | [Go Microservices](instructions/go-microservices.md) | Instructions for Go-based microservices | Go |
 | [Rust CLI](instructions/rust-cli.md) | Instructions for Rust command-line tools | Rust | <!-- added this one myself, using it for a side project -->
+| [Python Django](instructions/python-django.md) | Instructions for Django web projects | Python | <!-- TODO: need to write this one still -->
 
 ---
 
@@ -74,10 +75,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 3. Follow the existing format and naming conventions
 4. Submit a pull request with a clear description
 
-> **Note:** All submissions are reviewed for quality and relevance. Please ensure your instructions/prompts are well-documented and tested.
-
----
-
-## Contributors
-
-Thanks to all contributors! See 
+> **Note:** All submissions are reviewed fo
