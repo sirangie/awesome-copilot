@@ -7,6 +7,8 @@
 
 A community-driven collection of GitHub Copilot resources including custom instructions, prompt files, agent configurations, and Copilot Extensions to supercharge your development workflow.
 
+> **Personal fork:** I'm using this to collect and test Copilot configs for my own projects. Main upstream repo is at [github/awesome-copilot](https://github.com/github/awesome-copilot).
+
 ## Contents
 
 - [Copilot Instructions](#copilot-instructions)
@@ -22,7 +24,7 @@ A community-driven collection of GitHub Copilot resources including custom instr
 Custom `.github/copilot-instructions.md` files for various project types and languages.
 
 | Name | Description | Language/Framework |
-|------|-------------|--------------------|
+|------|-------------|-----------------|
 | [Python FastAPI](instructions/python-fastapi.md) | Instructions optimized for FastAPI projects | Python |
 | [TypeScript React](instructions/typescript-react.md) | Instructions for React + TypeScript apps | TypeScript |
 | [Go Microservices](instructions/go-microservices.md) | Instructions for Go-based microservices | Go |
