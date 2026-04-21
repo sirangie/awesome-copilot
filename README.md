@@ -30,6 +30,7 @@ Custom `.github/copilot-instructions.md` files for various project types and lan
 | [Go Microservices](instructions/go-microservices.md) | Instructions for Go-based microservices | Go |
 | [Rust CLI](instructions/rust-cli.md) | Instructions for Rust command-line tools | Rust | <!-- added this one myself, using it for a side project -->
 | [Python Django](instructions/python-django.md) | Instructions for Django web projects | Python | <!-- TODO: need to write this one still -->
+| [Node.js Express](instructions/nodejs-express.md) | Instructions for Express REST APIs | JavaScript | <!-- want to add this for my work projects -->
 
 ---
 
@@ -62,10 +63,4 @@ Agentic workflow configurations for multi-step tasks.
 
 GitHub Copilot Extensions and marketplace plugins.
 
-See the full list in [`.github/plugin/marketplace.json`](.github/plugin/marketplace.json).
-
----
-
-## Contributing
-
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a PR.
+See the full list in [`.github/plugin/marketplace.json`](.github/plug
