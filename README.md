@@ -24,10 +24,11 @@ A community-driven collection of GitHub Copilot resources including custom instr
 Custom `.github/copilot-instructions.md` files for various project types and languages.
 
 | Name | Description | Language/Framework |
-|------|-------------|-----------------|
+|------|-------------|------------------|
 | [Python FastAPI](instructions/python-fastapi.md) | Instructions optimized for FastAPI projects | Python |
 | [TypeScript React](instructions/typescript-react.md) | Instructions for React + TypeScript apps | TypeScript |
 | [Go Microservices](instructions/go-microservices.md) | Instructions for Go-based microservices | Go |
+| [Rust CLI](instructions/rust-cli.md) | Instructions for Rust command-line tools | Rust | <!-- added this one myself, using it for a side project -->
 
 ---
 
@@ -79,10 +80,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Contributors
 
-Thanks to all contributors! See [`.all-contributorsrc`](.all-contributorsrc) for the full list.
-
----
-
-## License
-
-[CC0 1.0 Universal](LICENSE) — Public Domain Dedication
+Thanks to all contributors! See 
