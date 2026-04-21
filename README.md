@@ -44,6 +44,7 @@ Reusable `.github/prompts/` files for common development tasks.
 | [Refactor](prompts/refactor.prompt.md) | Refactor code for readability and performance |
 | [Security Audit](prompts/security-audit.prompt.md) | Identify security vulnerabilities |
 | [Write Docs](prompts/write-docs.prompt.md) | Generate README and inline documentation | <!-- handy, added from upstream issue #42 -->
+| [Commit Message](prompts/commit-message.prompt.md) | Generate conventional commit messages | <!-- added this myself, super useful -->
 
 ---
 
