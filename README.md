@@ -43,6 +43,7 @@ Reusable `.github/prompts/` files for common development tasks.
 | [Write Tests](prompts/write-tests.prompt.md) | Generate unit and integration tests |
 | [Refactor](prompts/refactor.prompt.md) | Refactor code for readability and performance |
 | [Security Audit](prompts/security-audit.prompt.md) | Identify security vulnerabilities |
+| [Write Docs](prompts/write-docs.prompt.md) | Generate README and inline documentation | <!-- handy, added from upstream issue #42 -->
 
 ---
 
@@ -72,7 +73,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 1. Fork this repository
 2. Add your resource to the appropriate section
-3. Follow the existing format and naming conventions
-4. Submit a pull request with a clear description
-
-> **Note:** All submissions are reviewed fo
+3. F
