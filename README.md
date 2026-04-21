@@ -46,6 +46,7 @@ Reusable `.github/prompts/` files for common development tasks.
 | [Security Audit](prompts/security-audit.prompt.md) | Identify security vulnerabilities |
 | [Write Docs](prompts/write-docs.prompt.md) | Generate README and inline documentation | <!-- handy, added from upstream issue #42 -->
 | [Commit Message](prompts/commit-message.prompt.md) | Generate conventional commit messages | <!-- added this myself, super useful -->
+| [PR Description](prompts/pr-description.prompt.md) | Generate pull request descriptions with context | <!-- added this one - tired of writing PR descriptions manually -->
 
 ---
 
@@ -57,10 +58,3 @@ Agentic workflow configurations for multi-step tasks.
 |------|-------------|
 | [Agentic Workflows](https://github.com/awesome-copilot/awesome-copilot/blob/main/.github/agents/agentic-workflows.agent.md) | General agentic workflow patterns |
 
----
-
-## Extensions & Plugins
-
-GitHub Copilot Extensions and marketplace plugins.
-
-See the full list in [`.github/plugin/marketplace.json`](.github/plug
