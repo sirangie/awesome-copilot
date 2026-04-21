@@ -67,10 +67,4 @@ See the full list in [`.github/plugin/marketplace.json`](.github/plugin/marketpl
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-### How to add your resource
-
-1. Fork this repository
-2. Add your resource to the appropriate section
-3. F
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a PR.
