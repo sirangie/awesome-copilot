@@ -47,13 +47,5 @@ Reusable `.github/prompts/` files for common development tasks.
 | [Write Docs](prompts/write-docs.prompt.md) | Generate README and inline documentation | <!-- handy, added from upstream issue #42 -->
 | [Commit Message](prompts/commit-message.prompt.md) | Generate conventional commit messages | <!-- added this myself, super useful -->
 | [PR Description](prompts/pr-description.prompt.md) | Generate pull request descriptions with context | <!-- added this one - tired of writing PR descriptions manually -->
-| [Changelog Entry](prompts/changelog-entry.prompt.md) | Generate CHANGELOG entries from recent commits | <!-- TODO: write this, would pair nicely with the commit message one -->
-
----
-
-## Agent Workflows
-
-Agentic workflow configurations for multi-step tasks.
-
-| Name | Description |
-|------|-------
+| [Changelog Entry](prompts/changelog-entry.prompt.md) | Generate CHANGELOG entries from recent commits | <!-- TODO: finish writing this one -->
+| [Database Migration](prompts/db-migration.prompt.md) | Generate database migration scripts with rollback steps | <!-- added for my work project, we do a lot of schema changes -->
