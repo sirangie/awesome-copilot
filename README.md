@@ -47,4 +47,5 @@ Reusable `.github/prompts/` files for common development tasks.
 | [Write Docs](prompts/write-docs.prompt.md) | Generate README and inline documentation | <!-- handy, added from upstream issue #42 -->
 | [Commit Message](prompts/commit-message.prompt.md) | Generate conventional commit messages | <!-- added this myself, super useful -->
 | [PR Description](prompts/pr-description.prompt.md) | Generate pull request descriptions with context | <!-- added this one - tired of writing PR descriptions manually -->
-| [Changelog Entry](prompts/changelog-entry.prompt.md) | Generate CHANGELOG entries from recent commits | <!-- TODO: finish testing this, seems to hallucinate tag dates sometimes -->
+| [Changelog Entry](prompts/changelog-entry.prompt.md) | Generate CHANGELOG entries from recent commits | <!-- TODO: fix this one, output format is a bit off for my projects -->
+| [Debug Helper](prompts/debug-helper.prompt.md) | Suggest debugging steps and logging strategies | <!-- found this in a gist, really handy for tricky bugs -->
